@@ -1,8 +1,8 @@
 # rust-book-examples
 
-Typing up the example when going through [The Rust Programming Language](https://doc.rust-lang.org/book/) book ([GitHub](https://github.com/rust-lang/book)).
+Typing up the examples while going through [The Rust Programming Language](https://doc.rust-lang.org/book/) book ([GitHub](https://github.com/rust-lang/book)).
 
-# Contents
+## Contents
 
 * [1 - Getting Started](https://github.com/engvik/rust-book-examples/tree/master/ch1)
     * [1.2 - Hello, World!](https://github.com/engvik/rust-book-examples/tree/master/ch1/hello_world)
