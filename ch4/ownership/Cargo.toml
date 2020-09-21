@@ -1,5 +1,5 @@
 [package]
-name = "owenership"
+name = "ownership"
 version = "0.1.0"
 authors = ["Lars Jansøn Engvik <lars@engvik.nu>"]
 edition = "2018"
