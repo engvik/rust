@@ -5,6 +5,7 @@ Typing up the examples while going through [The Rust Programming Language](https
 ## Contents
 
 * [1 - Getting Started](https://github.com/engvik/rust-book-examples/tree/master/ch1)
+    * 1.1 - Installation
     * [1.2 - Hello, World!](https://github.com/engvik/rust-book-examples/tree/master/ch1/hello_world)
     * [1.3 - Hello, Cargo!](https://github.com/engvik/rust-book-examples/tree/master/ch1/hello_cargo)
 * [2 - Programming a Guessing Game](https://github.com/engvik/rust-book-examples/tree/master/ch2/guessing_game)
