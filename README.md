@@ -14,3 +14,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [3.3 - Functions](https://github.com/engvik/rust-book-examples/tree/master/ch3/functions)
     * [3.4 - Comments](https://github.com/engvik/rust-book-examples/tree/master/ch3/comments)
     * [3.5 - Control Flow](https://github.com/engvik/rust-book-examples/tree/master/ch3/control_flow)
+* [4 - Understanding Ownership](https://github.com/engvik/rust-book-examples/tree/master/ch4)
+    * [4.1 - What Is Ownership?](https://github.com/engvik/rust-book-examples/tree/master/ch4/ownership)
+    * [4.2 - References and Borrowing](https://github.com/engvik/rust-book-examples/tree/master/ch4/references_borrowing)
+    * [4.3 - The Slice Type](https://github.com/engvik/rust-book-examples/tree/master/ch4/slice_type)
