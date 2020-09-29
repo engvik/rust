@@ -19,3 +19,8 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [4.1 - What Is Ownership?](https://github.com/engvik/rust-book-examples/tree/master/ch4/ownership)
     * [4.2 - References and Borrowing](https://github.com/engvik/rust-book-examples/tree/master/ch4/references_borrowing)
     * [4.3 - The Slice Type](https://github.com/engvik/rust-book-examples/tree/master/ch4/slice_type)
+* [ 5 - Using Structs to Structure Related Data](https://github.com/engvik/rust-book-examples/tree/master/ch5)
+    * [5.1 - Defining and Instantiating Structs](https://github.com/engvik/rust-book-examples/tree/master/ch5/defining_instantiating)
+    * [5.2 - An Example Program Using Structs](https://github.com/engvik/rust-book-examples/tree/master/ch5/example_struct_program)
+    * [5.3 - Method Syntax](https://github.com/engvik/rust-book-examples/tree/master/ch5/method_syntax)
+
