@@ -23,7 +23,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [5.1 - Defining and Instantiating Structs](https://github.com/engvik/rust-book-examples/tree/master/ch5/defining_instantiating)
     * [5.2 - An Example Program Using Structs](https://github.com/engvik/rust-book-examples/tree/master/ch5/example_struct_program)
     * [5.3 - Method Syntax](https://github.com/engvik/rust-book-examples/tree/master/ch5/method_syntax)
-* [6 - ](https://github.com/engvik/rust-book-examples/tree/master/ch6)
+* [6 - Enums and Pattern Matching](https://github.com/engvik/rust-book-examples/tree/master/ch6)
     * [6.1 - Defining an Enum](https://github.com/engvik/rust-book-examples/tree/master/ch6/defining_enum)
     * [6.2 - The match Control Flow Operator](https://github.com/engvik/rust-book-examples/tree/master/ch6/match_control_flow)
     * [6.3 - Concise Control Flow with if let](https://github.com/engvik/rust-book-examples/tree/master/ch6/if_let)
