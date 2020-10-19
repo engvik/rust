@@ -33,5 +33,3 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [7.3 - Paths for Referring to an Item in the Module Tree](https://github.com/engvik/rust-book-examples/tree/master/ch6/restaurant_part_2)
     * [7.4 - Bringing Paths into Scope with the use Keyword](https://github.com/engvik/rust-book-examples/tree/master/ch6/restaurant_part_3)
     * [7.5 - Separating Modules into Different Files](https://github.com/engvik/rust-book-examples/tree/master/ch6/restaurant_part_4)
-
-
