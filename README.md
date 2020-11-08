@@ -33,3 +33,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [7.3 - Paths for Referring to an Item in the Module Tree](https://github.com/engvik/rust-book-examples/tree/master/ch7/restaurant_part_2)
     * [7.4 - Bringing Paths into Scope with the use Keyword](https://github.com/engvik/rust-book-examples/tree/master/ch7/restaurant_part_3)
     * [7.5 - Separating Modules into Different Files](https://github.com/engvik/rust-book-examples/tree/master/ch7/restaurant_part_4)
+* [8 - Common Collections](https://github.com/engvik/rust-book-examples/tree/master/ch8)
+    * [8.1 - Storing Lists of Values with Vectors](https://github.com/engvik/rust-book-examples/tree/master/ch8/vectors)
+    * [8.2 - Storing UTF-8 Encoded Text with Strings](https://github.com/engvik/rust-book-examples/tree/master/ch8/strings)
+    * [8.3 - Storing Keys with Associated Values in Hash Maps](https://github.com/engvik/rust-book-examples/tree/master/ch8/hashmaps)
