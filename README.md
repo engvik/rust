@@ -37,3 +37,8 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [8.1 - Storing Lists of Values with Vectors](https://github.com/engvik/rust-book-examples/tree/master/ch8/vectors)
     * [8.2 - Storing UTF-8 Encoded Text with Strings](https://github.com/engvik/rust-book-examples/tree/master/ch8/strings)
     * [8.3 - Storing Keys with Associated Values in Hash Maps](https://github.com/engvik/rust-book-examples/tree/master/ch8/hashmaps)
+* [9 - Error Handling](https://github.com/engvik/rust-book-examples/tree/master/ch9)
+    * [9.1 - Unrecoverable Errors with panic!](https://github.com/engvik/rust-book-examples/tree/master/ch9/unrecoverable_errors)
+    * [9.2 - Recoverable Errors with Result](https://github.com/engvik/rust-book-examples/tree/master/ch9/recoverable_errors)
+    * [9.3 - To panic! or Not to panic!](https://github.com/engvik/rust-book-examples/tree/master/ch9/to_panic_or_not_to_panic)
+
