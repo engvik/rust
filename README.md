@@ -41,4 +41,8 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [9.1 - Unrecoverable Errors with panic!](https://github.com/engvik/rust-book-examples/tree/master/ch9/unrecoverable_errors)
     * [9.2 - Recoverable Errors with Result](https://github.com/engvik/rust-book-examples/tree/master/ch9/recoverable_errors)
     * [9.3 - To panic! or Not to panic!](https://github.com/engvik/rust-book-examples/tree/master/ch9/to_panic_or_not_to_panic)
+* [10 - Generic Types, Traits, and Lifetimes](https://github.com/engvik/rust-book-examples/tree/master/ch10/generic_types_traits_lifetimes)
+    * [10.1 - Generic Data Types](https://github.com/engvik/rust-book-examples/tree/master/ch10/generic_data_types)
+    * [10.2 - Traits: Defining Shared Behavior](https://github.com/engvik/rust-book-examples/tree/master/ch10/traits)
+    * [10.3 - Validating References with Lifetimes](https://github.com/engvik/rust-book-examples/tree/master/ch10/lifetimes)
 
