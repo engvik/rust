@@ -45,4 +45,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [10.1 - Generic Data Types](https://github.com/engvik/rust-book-examples/tree/master/ch10/generic_data_types)
     * [10.2 - Traits: Defining Shared Behavior](https://github.com/engvik/rust-book-examples/tree/master/ch10/traits)
     * [10.3 - Validating References with Lifetimes](https://github.com/engvik/rust-book-examples/tree/master/ch10/lifetimes)
-
+* [11 - Writing Automated Tests](https://github.com/engvik/rust-book-examples/tree/master/ch11/)
+    * [11.1 - How to Write Tests](https://github.com/engvik/rust-book-examples/tree/master/ch11/writing_tests)
+    * [11.2 - Controlling How Tests Are Run](https://github.com/engvik/rust-book-examples/tree/master/ch11/controlling_tests)
+    * [11.3 - Test Organization](https://github.com/engvik/rust-book-examples/tree/master/ch11/test_organization)
