@@ -55,4 +55,4 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [12.3 - Refactoring to Improve Modularity and Error Handling](https://github.com/engvik/rust-book-examples/commit/51cf01f7fb63b9983908a20045a9bd4eb650a2d8)
     * [12.4 - Developing the Library’s Functionality with Test-Driven Development](https://github.com/engvik/rust-book-examples/commit/caa6377952f3d9c74f65384c09bbb20c3fc47ff9)
     * [12.5 - Working with Environment Variables](https://github.com/engvik/rust-book-examples/commit/e6b0622c8a2f12975acb3feb43df4e395e85b88c)
-    * [12.6 - Writing Error Messages to Standard Error Instead of Standard Output](https://github.com/engvik/rust-book-examples/commit/e9d10aee7715cba3d3a25ac2054c8ae7cd81ff1c)
+    * [12.6 - Writing Error Messages to Standard Error Instead of Standard Output](https://github.com/engvik/rust-book-examples/commit/dde80456e7e1b5246b2e6d7b38829fd67dfc00c3)
