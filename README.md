@@ -56,3 +56,8 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [12.4 - Developing the Library’s Functionality with Test-Driven Development](https://github.com/engvik/rust-book-examples/commit/caa6377952f3d9c74f65384c09bbb20c3fc47ff9)
     * [12.5 - Working with Environment Variables](https://github.com/engvik/rust-book-examples/commit/e6b0622c8a2f12975acb3feb43df4e395e85b88c)
     * [12.6 - Writing Error Messages to Standard Error Instead of Standard Output](https://github.com/engvik/rust-book-examples/commit/dde80456e7e1b5246b2e6d7b38829fd67dfc00c3)
+* [13 - Functional Language Features: Iterators and Closures](https://github.com/engvik/rust-book-examples/tree/master/ch13)
+    * [13.1 - Closures: Anonymous Functions that Can Capture Their Environment](https://github.com/engvik/rust-book-examples/tree/master/ch13/closures)
+    * [13.2 - Processing a Series of Items with Iterators](https://github.com/engvik/rust-book-examples/tree/master/ch13/iterators)
+    * [13.3 - Improving Our I/O Project](https://github.com/engvik/rust-book-examples/tree/master/ch13/minigrep)
+    * 13.4 - Comparing Performance: Loops vs. Iterators
