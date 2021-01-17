@@ -61,3 +61,9 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [13.2 - Processing a Series of Items with Iterators](https://github.com/engvik/rust-book-examples/tree/master/ch13/iterators)
     * [13.3 - Improving Our I/O Project](https://github.com/engvik/rust-book-examples/tree/master/ch13/minigrep)
     * 13.4 - Comparing Performance: Loops vs. Iterators
+* [14 - More About Cargo and Crates.io](https://github.com/engvik/rust-book-examples/tree/master/ch14)
+    * [14.1 - Customizing Builds with Release Profiles](https://github.com/engvik/rust-book-examples/tree/master/ch14/release_profiles)
+    * [14.2 - Publishing a Crate to Crates.io](https://github.com/engvik/rust-book-examples/tree/master/ch14/publishing)
+    * [14.3 - Cargo Workspaces](https://github.com/engvik/rust-book-examples/tree/master/ch14/add)
+    * 14.4 - Installing Binaries from Crates.io with cargo install
+    * 14.5 - Extending Cargo with Custom Commands

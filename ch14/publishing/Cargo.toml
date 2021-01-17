@@ -1,0 +1,11 @@
+[package]
+name = "publishing"
+version = "0.1.0"
+authors = ["Lars Jansøn Engvik <lars@engvik.nu>"]
+edition = "2018"
+licence = "MIT"
+description = "Testing testing..."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
