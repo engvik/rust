@@ -67,3 +67,10 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [14.3 - Cargo Workspaces](https://github.com/engvik/rust-book-examples/tree/master/ch14/add)
     * 14.4 - Installing Binaries from Crates.io with cargo install
     * 14.5 - Extending Cargo with Custom Commands
+* [15 - Smart Pointers](https://github.com/engvik/rust-book-examples/tree/master/ch15)
+    * [15.1 - Using Box<T> to Point to Data on the Heap](https://github.com/engvik/rust-book-examples/tree/master/ch15/using_box)
+    * [15.2 - Treating Smart Pointers Like Regular References with the Deref Trait](https://github.com/engvik/rust-book-examples/tree/master/ch15/deref_trait)
+    * [15.3 - Running Code on Cleanup with the Drop Trait](https://github.com/engvik/rust-book-examples/tree/master/ch15/drop_trait)
+    * [15.4 - Rc<T>, the Reference Counted Smart Pointer](https://github.com/engvik/rust-book-examples/tree/master/ch15/ref_count)
+    * [15.5 - RefCell<T> and the Interior Mutability Pattern](https://github.com/engvik/rust-book-examples/tree/master/ch15/refcell)
+    * [15.6 - Reference Cycles Can Leak Memory](https://github.com/engvik/rust-book-examples/tree/master/ch15/reference_cycles)
