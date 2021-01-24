@@ -74,3 +74,8 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [15.4 - Rc<T>, the Reference Counted Smart Pointer](https://github.com/engvik/rust-book-examples/tree/master/ch15/ref_count)
     * [15.5 - RefCell<T> and the Interior Mutability Pattern](https://github.com/engvik/rust-book-examples/tree/master/ch15/refcell)
     * [15.6 - Reference Cycles Can Leak Memory](https://github.com/engvik/rust-book-examples/tree/master/ch15/reference_cycles)
+* [16 - Fearless Concurrency](https://github.com/engvik/rust-book-examples/tree/master/ch16)
+    * [16.1 - Using Threads to Run Code Simultaneously](https://github.com/engvik/rust-book-examples/tree/master/ch16/threads)
+    * [16.2 - Using Message Passing to Transfer Data Between Threads](https://github.com/engvik/rust-book-examples/tree/master/ch16/message)
+    * [16.3 - Shared-State Concurrency](https://github.com/engvik/rust-book-examples/tree/master/ch16/shared_state)
+    * 16.4 - Extensible Concurrency with the Sync and Send Traits
