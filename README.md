@@ -79,3 +79,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [16.2 - Using Message Passing to Transfer Data Between Threads](https://github.com/engvik/rust-book-examples/tree/master/ch16/message)
     * [16.3 - Shared-State Concurrency](https://github.com/engvik/rust-book-examples/tree/master/ch16/shared_state)
     * 16.4 - Extensible Concurrency with the Sync and Send Traits
+* [17 - Object Oriented Programming Features of Rust](https://github.com/engvik/rust-book-examples/tree/master/ch17)
+    * [17.1 - Characteristics of Object-Oriented Languages](https://github.com/engvik/rust-book-examples/tree/master/ch17/oo_langs)
+    * [17.2 - Using Trait Objects That Allow for Values of Different Types](https://github.com/engvik/rust-book-examples/tree/master/ch17/trait_objects)
+    * [17.3 - Implementing an Object-Oriented Design Pattern](https://github.com/engvik/rust-book-examples/tree/master/ch17/state_pattern)
