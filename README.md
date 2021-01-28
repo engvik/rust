@@ -83,3 +83,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [17.1 - Characteristics of Object-Oriented Languages](https://github.com/engvik/rust-book-examples/tree/master/ch17/oo_langs)
     * [17.2 - Using Trait Objects That Allow for Values of Different Types](https://github.com/engvik/rust-book-examples/tree/master/ch17/trait_objects)
     * [17.3 - Implementing an Object-Oriented Design Pattern](https://github.com/engvik/rust-book-examples/tree/master/ch17/state_pattern)
+* [18 - Patterns and Matching](https://github.com/engvik/rust-book-examples/tree/master/ch18)
+    * [18.1 - All the Places Patterns Can Be Used](https://github.com/engvik/rust-book-examples/tree/master/ch18/patterns)
+    * [18.2 - Refutability: Whether a Pattern Might Fail to Match](https://github.com/engvik/rust-book-examples/tree/master/ch18/refutability)
+    * [18.3 - Pattern Syntax](https://github.com/engvik/rust-book-examples/tree/master/ch18/pattern_syntax)
