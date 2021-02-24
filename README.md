@@ -93,3 +93,7 @@ Typing up the examples while going through [The Rust Programming Language](https
     * [19.3 - Advanced Types](https://github.com/engvik/rust-book-examples/tree/master/ch19/advanced_types)
     * [19.4 - Advanced Functions and Closures](https://github.com/engvik/rust-book-examples/tree/master/ch19/advanced_functions_and_closures)
     * [19.5 - Macros](https://github.com/engvik/rust-book-examples/tree/master/ch19/macros)
+* [20 - Final Project: Building a Multithreaded Web Server](https://github.com/engvik/rust-book-examples/tree/master/ch20)
+    * [20.1 - Building a Single-Threaded Web Server](https://github.com/engvik/rust-book-examples/commit/a6c2a0994eca1af943bec12d31484a7eee509f03)
+    * [20.2 - Turning Our Single-Threaded Server into a Multithreaded Server](https://github.com/engvik/rust-book-examples/commit/dcf3a2f5be54e874cd3a5ce5d52fbbe6c3e5b960|)
+    * [20.3 - Graceful Shutdown and Cleanup](https://github.com/engvik/rust-book-examples/commit/c15a67e7ff92c151a1e3e0957c4daab4dc16f43c)
